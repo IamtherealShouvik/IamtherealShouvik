@@ -11,7 +11,7 @@
 
 - 🌐 I’m trying to learn more on **Front-end languages.**
 
-- #️⃣ I’m looking for help with creative **Front-end projects.**
+- 🎯 I’m looking for help with creative **Front-end projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
