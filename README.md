@@ -25,8 +25,9 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/522f3981be32e0171a02eeaebaf0e8516f019da56fbae34a3962df0ceb3100e7/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f412f61646f62652d78642d6c6f676f2d363433363445334132342d7365656b6c6f676f2e636f6d2e706e67" alt="xd" width="40" height="40" /> </a> 
+<img src="https://camo.githubusercontent.com/0c017d7083c2189b5515f7a74f36e16bc3cb195713ba2f6b996c22bde44edfa9/68747470733a2f2f7374617469632e7665637465657a792e636f6d2f73797374656d2f7265736f75726365732f70726576696577732f3032372f3132372f3436332f6f726967696e616c2f6a6176617363726970742d6c6f676f2d6a6176617363726970742d69636f6e2d7472616e73706172656e742d667265652d706e672e706e67" alt="javascript" width="44" height="44"/> </a> 
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"/> 
+  <img src="https://camo.githubusercontent.com/522f3981be32e0171a02eeaebaf0e8516f019da56fbae34a3962df0ceb3100e7/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f412f61646f62652d78642d6c6f676f2d363433363445334132342d7365656b6c6f676f2e636f6d2e706e67" alt="xd" width="40" height="40" /> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtherealshouvik&show_icons=true&locale=en&layout=compact" alt="iamtherealshouvik" /></p>
