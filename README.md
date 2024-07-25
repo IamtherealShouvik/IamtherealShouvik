@@ -31,6 +31,6 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamtherealShouvik&layout=donut-vertical&theme=highcontrast" alt="iamtherealshouvik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamtherealshouvik&show_icons=true&locale=en&theme=highcontrast&card_width=500" alt="iamtherealshouvik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamtherealshouvik&show_icons=true&locale=en&theme=vision-friendly-dark&card_width=500" alt="iamtherealshouvik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtherealshouvik&theme=onedark-duo&card_width=504" alt="iamtherealshouvik" /></p>
