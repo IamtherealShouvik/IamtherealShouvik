@@ -3,7 +3,7 @@
 <h3 align="center">Indian by birth, developer by wish.</h3>
 
 <img src="https://camo.githubusercontent.com/14445d6010612a62eb02bfb38aa7d8557e7995c2c106be845851ac718af8ad23/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62352f66642f33662f62356664336662653938343130336530386239343832343731343834333934622e676966" height=320 width=560 align="right" border-radius=8/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtherealshouvik&label=Profile%20views&color=0e75b6&style=flat" alt="profile-status" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtherealshouvik&label=Profile%20views&color=ff0000&style=flat" alt="profile-status" /> </p>
 
 - 📑 I’m currently pursuing **B.Tech in CSE.**
 
@@ -11,8 +11,8 @@
 
 - 🌐 I’m trying to learn more on **Front-end languages.**
 
-- ♻️ I’m looking for help with creative **Front-end projects.**
-
+- ♻️ Help me with creative **Front-end projects.**
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/iamtherealshouvik" target="blank"><img align="center" src="https://github.com/IamtherealShouvik/GIF/blob/main/icon-codepen-WoB.png" alt="https://codepen.io/iamtherealshouvik" height="46" width="46" /></a>
