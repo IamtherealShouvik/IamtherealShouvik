@@ -22,9 +22,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2954ea4a115a41aa827202678e66d768cb9d66da547d56dba504a62c79019741/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f68746d6c2d352f6c6f676f2d68746d6c2d352d323034382e706e67" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/f77cfbb88d1aaa466279461ee557b0de66fff9673368b627c6a378e51cd57cfe/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f6373732d332f6c6f676f2d6373732d332d323034382e706e67" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2954ea4a115a41aa827202678e66d768cb9d66da547d56dba504a62c79019741/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f68746d6c2d352f6c6f676f2d68746d6c2d352d323034382e706e67" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/f77cfbb88d1aaa466279461ee557b0de66fff9673368b627c6a378e51cd57cfe/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f6373732d332f6c6f676f2d6373732d332d323034382e706e67" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/js/js_intro.asp" target="_blank" rel="noreferrer"> 
 <img src="https://camo.githubusercontent.com/64c5e4451254f99e9bd2558666c34a327c5df5edb6e34b31b5a42c0b062718f1/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f6a6176617363726970742f6c6f676f2d6a6176617363726970742d69636f6e2d313032342e706e67" alt="javascript" width="48" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"/> 
   <img src="https://camo.githubusercontent.com/522f3981be32e0171a02eeaebaf0e8516f019da56fbae34a3962df0ceb3100e7/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f412f61646f62652d78642d6c6f676f2d363433363445334132342d7365656b6c6f676f2e636f6d2e706e67" alt="xd" width="40" height="40" /> </a> 
