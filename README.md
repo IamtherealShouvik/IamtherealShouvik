@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to my project laboratory.</h1>
 <h3 align="center">Indian by birth, developer by wish.</h3>
 
-<img src="https://camo.githubusercontent.com/14445d6010612a62eb02bfb38aa7d8557e7995c2c106be845851ac718af8ad23/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62352f66642f33662f62356664336662653938343130336530386239343832343731343834333934622e676966" height=320 width=560 align="right" border-radius=8/>
+<img src="https://camo.githubusercontent.com/c8eef3f2febf8dda84d970b542c136d0f80f4a5077eb2766f5f7088cace0affe/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62352f66642f33662f62356664336662653938343130336530386239343832343731343834333934622e676966" height=320 width=560 align="right" border-radius=8/>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtherealshouvik&label=Profile%20views&color=ff0000&style=flat" alt="profile-status" /> </p>
 
@@ -22,12 +22,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2954ea4a115a41aa827202678e66d768cb9d66da547d56dba504a62c79019741/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f68746d6c2d352f6c6f676f2d68746d6c2d352d323034382e706e67" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/f77cfbb88d1aaa466279461ee557b0de66fff9673368b627c6a378e51cd57cfe/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f6373732d332f6c6f676f2d6373732d332d323034382e706e67" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/819cf199916df10c99696fe203267141265024a01b366f582ddd983ae71ee15e/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f68746d6c2d352f6c6f676f2d68746d6c2d352d323034382e706e67" alt="HTML" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/f77cfbb88d1aaa466279461ee557b0de66fff9673368b627c6a378e51cd57cfe/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f6373732d332f6c6f676f2d6373732d332d323034382e706e67" alt="CSS" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/js/js_intro.asp" target="_blank" rel="noreferrer"> 
-<img src="https://camo.githubusercontent.com/64c5e4451254f99e9bd2558666c34a327c5df5edb6e34b31b5a42c0b062718f1/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f6a6176617363726970742f6c6f676f2d6a6176617363726970742d69636f6e2d313032342e706e67" alt="javascript" width="48" height="40"/> </a> 
+<img src="https://camo.githubusercontent.com/1b7a3183f8fd4aaa43b09a2e5f852f75f0e1d19d966a5a571a5691a3e9a1c258/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f6a6176617363726970742f6c6f676f2d6a6176617363726970742d69636f6e2d313032342e706e67" alt="JS" width="48" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"/> 
-  <img src="https://camo.githubusercontent.com/522f3981be32e0171a02eeaebaf0e8516f019da56fbae34a3962df0ceb3100e7/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f412f61646f62652d78642d6c6f676f2d363433363445334132342d7365656b6c6f676f2e636f6d2e706e67" alt="xd" width="40" height="40" /> </a> 
+  <img src="https://camo.githubusercontent.com/0ad5545f17541796434e9eb083f1ea5eb4880cae81284e15fda525ab2f4875fd/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f7468756d62732f61646f62652d78642d6c6f676f2d766563746f722e737667" alt="XD" width="40" height="40" /> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamtherealShouvik&layout=donut-vertical&theme=highcontrast" alt="iamtherealshouvik" /></p>
