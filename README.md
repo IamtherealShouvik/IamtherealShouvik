@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/819cf199916df10c99696fe203267141265024a01b366f582ddd983ae71ee15e/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f68746d6c2d352f6c6f676f2d68746d6c2d352d323034382e706e67" alt="HTML" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/f77cfbb88d1aaa466279461ee557b0de66fff9673368b627c6a378e51cd57cfe/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f6373732d332f6c6f676f2d6373732d332d323034382e706e67" alt="CSS" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2759472aac837f7e13d6785b3d1a1be679c7246e3c8972223fe5c2bd6d51770a/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f6373732d332f6c6f676f2d6373732d332d323034382e706e67" alt="CSS" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/js/js_intro.asp" target="_blank" rel="noreferrer"> 
 <img src="https://camo.githubusercontent.com/1b7a3183f8fd4aaa43b09a2e5f852f75f0e1d19d966a5a571a5691a3e9a1c258/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f6a6176617363726970742f6c6f676f2d6a6176617363726970742d69636f6e2d313032342e706e67" alt="JS" width="48" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"/> 
