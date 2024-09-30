@@ -14,9 +14,9 @@
 
 - ♻️ Help me with creative **Front-end projects.**
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's be friends in:</h3>
 <p align="left">
-<a href="https://codepen.io/iamtherealshouvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iamtherealshouvik" height="30" width="40" /></a>
+<a href="https://codepen.io/iamtherealshouvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/IamtherealShouvik/GIF/86220aeca0c6d17607e1900ab16a37a364fe09c2/CodePen.png" alt="iamtherealshouvik" height="32" width="32" /></a>
 <a href="https://linkedin.com/in/shouvik-ghosh-262655316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shouvik-ghosh-262655316" height="30" width="40" /></a>
 </p>
 
