@@ -6,13 +6,13 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtherealshouvik&label=Profile%20views&color=ff0000&style=flat" alt="profile-status" /> </p>
 
-- 📑 I’m currently pursuing **B.Tech in CSE.**
+- 📑 Pursued **B.Tech in CSE**.
 
-- 🔍 My field of interest is the **CAPTCHA system.**
+- 🔍 Interested in the **CAPTCHA system**.
 
-- 🌐 I’m trying to learn more on **Front-end languages.**
+- 🌐 Learning **frameworks**.
 
-- ♻️ Help me with creative **Front-end projects.**
+- ♻️ Reading & practising.
 <br>
 <h3 align="left">Let's be friends in:</h3>
 <p align="left">
