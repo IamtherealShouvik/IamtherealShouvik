@@ -1,6 +1,6 @@
 ![logo](https://github.com/IamtherealShouvik/IamtherealShouvik/blob/main/ESCR%5B1%5D.png)
 <h1 align="center">Welcome to my project laboratory.</h1>
-<h3 align="center">I learn, I try. &nbsp; I try, I learn.</h3>
+<!-- <h3 align="center">I learn, I try. &nbsp; I try, I learn.</h3> -->
 
 <img src="https://camo.githubusercontent.com/c8eef3f2febf8dda84d970b542c136d0f80f4a5077eb2766f5f7088cace0affe/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62352f66642f33662f62356664336662653938343130336530386239343832343731343834333934622e676966" height=320 width=560 align="right" border-radius=8/>
 <br>
